@@ -7,4 +7,4 @@ A passionate software developer with a focus on iOS app development and Java bac
 * 🧑‍🎓 Currently studying in Northeastern University
 * 🌱 Learning anything I can get my hands on!
 * 🔍 Currently looking for an intern job
-* 📮 Let's connect - [LinkedIn](https://www.linkedin.com/in/huajing-lu-6099a7233/)|[Personal Website](www.runningcoconut.com)
+* 📮 Let's connect - [LinkedIn](https://www.linkedin.com/in/huajing-lu-6099a7233/)|[Personal Website](https://www.runningcoconut.com)
