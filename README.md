@@ -10,6 +10,4 @@ A passionate software developer with a focus on iOS app development and Java bac
 * 📮 Let's connect - [LinkedIn](https://www.linkedin.com/in/huajing-lu-6099a7233/)|[Personal Website](https://www.runningcoconut.com)
 * GitHub status:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cerfking&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cerfking)
