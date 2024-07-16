@@ -2,7 +2,7 @@
 
 # Hi, I'm Huajing 👋
 
-A passionate software developer with a focus on iOS app development and Java back-end development.
+A passionate software developer with a focus on iOS app development.
 
 * 🧑‍🎓 Currently studying in Northeastern University
 * 🌱 Learning anything I can get my hands on!
